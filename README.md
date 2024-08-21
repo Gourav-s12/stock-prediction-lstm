@@ -48,26 +48,26 @@ The model architecture consists of:
 
 To install the necessary packages, run:
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ### Usage
 
 1. Clone this repository:
 
-\`\`\`bash
+```bash
 git clone https://github.com/your-username/stock-prediction-lstm.git
 cd stock-prediction-lstm
-\`\`\`
+```
 
 2. Ensure that the `stock.csv` file is in the root directory.
 
 3. Run the Jupyter notebook to train the model:
 
-\`\`\`bash
+```bash
 jupyter notebook projectstocknewgoogle.ipynb
-\`\`\`
+```
 
 4. The notebook will guide you through the data preprocessing, model training, and evaluation steps.
 
